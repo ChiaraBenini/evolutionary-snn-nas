@@ -1,0 +1,174 @@
+Starting evolution
+Population size: 6
+Generations: 3
+Elite fraction: 0.34
+Mutation probability: 0.1
+
+Generation 0
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.9183 | Test Acc 37.08% | Best 37.08% | Time 33.5s
+Epoch 001 | Loss 1.9548 | Test Acc 41.24% | Best 41.24% | Time 67.0s
+Epoch 002 | Loss 1.7760 | Test Acc 46.60% | Best 46.60% | Time 100.6s
+Epoch 003 | Loss 1.7672 | Test Acc 51.52% | Best 51.52% | Time 136.7s
+acc=0.5152 | fitness=0.5152 | layers=3/4 | steps=10
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.9173 | Test Acc 39.08% | Best 39.08% | Time 45.2s
+Epoch 001 | Loss 1.8990 | Test Acc 43.72% | Best 43.72% | Time 91.7s
+Epoch 002 | Loss 1.8280 | Test Acc 48.16% | Best 48.16% | Time 156.3s
+Epoch 003 | Loss 1.9089 | Test Acc 49.44% | Best 49.44% | Time 227.6s
+acc=0.4944 | fitness=0.4944 | layers=1/4 | steps=20
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 2.1007 | Test Acc 32.76% | Best 32.76% | Time 78.2s
+Epoch 001 | Loss 1.9315 | Test Acc 40.80% | Best 40.80% | Time 123.3s
+Epoch 002 | Loss 1.7459 | Test Acc 39.80% | Best 40.80% | Time 192.3s
+Epoch 003 | Loss 1.9664 | Test Acc 43.88% | Best 43.88% | Time 264.1s
+acc=0.4388 | fitness=0.4388 | layers=1/4 | steps=10
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.9634 | Test Acc 38.20% | Best 38.20% | Time 29.5s
+Epoch 001 | Loss 1.9079 | Test Acc 42.68% | Best 42.68% | Time 55.8s
+Epoch 002 | Loss 1.8429 | Test Acc 43.24% | Best 43.24% | Time 83.8s
+Epoch 003 | Loss 1.8460 | Test Acc 45.96% | Best 45.96% | Time 109.1s
+acc=0.4596 | fitness=0.4596 | layers=1/4 | steps=16
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.7896 | Test Acc 36.08% | Best 36.08% | Time 45.1s
+Epoch 001 | Loss 1.8551 | Test Acc 44.28% | Best 44.28% | Time 93.8s
+Epoch 002 | Loss 1.7449 | Test Acc 47.48% | Best 47.48% | Time 143.9s
+Epoch 003 | Loss 1.7542 | Test Acc 43.80% | Best 47.48% | Time 205.2s
+acc=0.4748 | fitness=0.4748 | layers=3/4 | steps=16
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.9547 | Test Acc 24.32% | Best 24.32% | Time 39.1s
+Epoch 001 | Loss 1.8857 | Test Acc 32.80% | Best 32.80% | Time 78.0s
+Epoch 002 | Loss 1.9504 | Test Acc 35.00% | Best 35.00% | Time 117.9s
+Epoch 003 | Loss 1.8590 | Test Acc 34.28% | Best 35.00% | Time 161.5s
+acc=0.3500 | fitness=0.3500 | layers=1/4 | steps=10
+Best individual
+accuracy: 0.5152
+fitness: 0.5152
+layers: (True, True, True)
+sparsity: 0.7747
+
+Generation 1
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.9346 | Test Acc 36.84% | Best 36.84% | Time 24.3s
+Epoch 001 | Loss 2.0822 | Test Acc 43.92% | Best 43.92% | Time 49.1s
+Epoch 002 | Loss 1.8635 | Test Acc 48.40% | Best 48.40% | Time 74.0s
+Epoch 003 | Loss 1.9739 | Test Acc 54.08% | Best 54.08% | Time 98.6s
+acc=0.5408 | fitness=0.5408 | layers=3/4 | steps=10
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 2.2826 | Test Acc 32.56% | Best 32.56% | Time 43.4s
+Epoch 001 | Loss 2.0328 | Test Acc 38.44% | Best 38.44% | Time 87.0s
+Epoch 002 | Loss 1.8073 | Test Acc 43.36% | Best 43.36% | Time 127.9s
+Epoch 003 | Loss 1.8107 | Test Acc 50.32% | Best 50.32% | Time 170.8s
+acc=0.5032 | fitness=0.5032 | layers=1/4 | steps=20
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.9686 | Test Acc 32.12% | Best 32.12% | Time 43.4s
+Epoch 001 | Loss 1.9371 | Test Acc 39.56% | Best 39.56% | Time 85.4s
+Epoch 002 | Loss 1.9249 | Test Acc 47.64% | Best 47.64% | Time 127.1s
+Epoch 003 | Loss 1.7388 | Test Acc 49.72% | Best 49.72% | Time 168.2s
+acc=0.4972 | fitness=0.4972 | layers=1/4 | steps=20
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.9094 | Test Acc 39.76% | Best 39.76% | Time 24.7s
+Epoch 001 | Loss 1.8732 | Test Acc 44.72% | Best 44.72% | Time 48.7s
+Epoch 002 | Loss 1.7936 | Test Acc 48.72% | Best 48.72% | Time 74.2s
+Epoch 003 | Loss 1.8277 | Test Acc 51.76% | Best 51.76% | Time 98.6s
+acc=0.5176 | fitness=0.5176 | layers=3/4 | steps=10
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.8024 | Test Acc 38.36% | Best 38.36% | Time 24.2s
+Epoch 001 | Loss 1.9413 | Test Acc 47.68% | Best 47.68% | Time 48.7s
+Epoch 002 | Loss 1.9251 | Test Acc 43.80% | Best 47.68% | Time 72.9s
+Epoch 003 | Loss 1.6980 | Test Acc 50.48% | Best 50.48% | Time 97.0s
+acc=0.5048 | fitness=0.5048 | layers=3/4 | steps=10
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 2.0951 | Test Acc 37.32% | Best 37.32% | Time 39.4s
+Epoch 001 | Loss 1.9571 | Test Acc 38.44% | Best 38.44% | Time 79.1s
+Epoch 002 | Loss 1.8359 | Test Acc 48.20% | Best 48.20% | Time 120.2s
+Epoch 003 | Loss 1.7889 | Test Acc 51.84% | Best 51.84% | Time 164.6s
+acc=0.5184 | fitness=0.5184 | layers=1/4 | steps=20
+Best individual
+accuracy: 0.5408
+fitness: 0.5408
+layers: (True, True, True)
+sparsity: 0.7015
+
+Generation 2
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.9192 | Test Acc 43.24% | Best 43.24% | Time 24.8s
+Epoch 001 | Loss 1.8757 | Test Acc 44.20% | Best 44.20% | Time 49.3s
+Epoch 002 | Loss 2.0028 | Test Acc 45.40% | Best 45.40% | Time 73.9s
+Epoch 003 | Loss 1.8108 | Test Acc 51.40% | Best 51.40% | Time 98.2s
+acc=0.5140 | fitness=0.5140 | layers=3/4 | steps=10
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 2.0437 | Test Acc 42.52% | Best 42.52% | Time 44.6s
+Epoch 001 | Loss 1.7985 | Test Acc 39.44% | Best 42.52% | Time 88.3s
+Epoch 002 | Loss 1.7012 | Test Acc 47.00% | Best 47.00% | Time 131.0s
+Epoch 003 | Loss 1.8119 | Test Acc 50.96% | Best 50.96% | Time 172.9s
+acc=0.5096 | fitness=0.5096 | layers=1/4 | steps=20
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 1.9634 | Test Acc 37.72% | Best 37.72% | Time 45.3s
+Epoch 001 | Loss 1.9179 | Test Acc 43.28% | Best 43.28% | Time 90.6s
+Epoch 002 | Loss 1.8609 | Test Acc 50.20% | Best 50.20% | Time 133.6s
+Epoch 003 | Loss 1.8182 | Test Acc 52.12% | Best 52.12% | Time 179.4s
+acc=0.5212 | fitness=0.5212 | layers=1/4 | steps=20
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 2.1215 | Test Acc 34.12% | Best 34.12% | Time 24.4s
+Epoch 001 | Loss 1.9722 | Test Acc 42.32% | Best 42.32% | Time 48.3s
+Epoch 002 | Loss 1.9578 | Test Acc 42.32% | Best 42.32% | Time 72.1s
+Epoch 003 | Loss 1.8216 | Test Acc 47.36% | Best 47.36% | Time 95.6s
+acc=0.4736 | fitness=0.4736 | layers=3/4 | steps=10
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 2.0358 | Test Acc 36.68% | Best 36.68% | Time 42.7s
+Epoch 001 | Loss 1.6977 | Test Acc 43.56% | Best 43.56% | Time 84.5s
+Epoch 002 | Loss 1.9047 | Test Acc 47.44% | Best 47.44% | Time 128.9s
+Epoch 003 | Loss 1.7259 | Test Acc 52.68% | Best 52.68% | Time 178.5s
+acc=0.5268 | fitness=0.5268 | layers=1/4 | steps=20
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 2.0528 | Test Acc 29.84% | Best 29.84% | Time 39.9s
+Epoch 001 | Loss 2.0141 | Test Acc 37.68% | Best 37.68% | Time 83.1s
+Epoch 002 | Loss 1.7996 | Test Acc 47.04% | Best 47.04% | Time 124.9s
+Epoch 003 | Loss 1.7929 | Test Acc 48.56% | Best 48.56% | Time 166.9s
+acc=0.4856 | fitness=0.4856 | layers=1/4 | steps=20
+Best individual
+accuracy: 0.5268
+fitness: 0.5268
+layers: (True, False, False)
+sparsity: 0.6668
+
+Evolved genotype: SNNGenotype(layers_active=(True, False, False), num_steps=20, beta=0.92, width_mult=1.0)
+Active layers: (True, False, False)
+Fitness: 0.527, Accuracy: 0.527

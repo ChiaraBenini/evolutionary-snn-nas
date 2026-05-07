@@ -1,0 +1,26 @@
+Epoch 000 | Loss 1.7280 | Test Acc 51.17% | Best 51.17% | Time 86.7s
+Epoch 001 | Loss 1.6521 | Test Acc 59.53% | Best 59.53% | Time 172.1s
+Epoch 002 | Loss 1.7654 | Test Acc 63.97% | Best 63.97% | Time 257.8s
+Epoch 003 | Loss 1.7018 | Test Acc 63.52% | Best 63.97% | Time 344.2s
+Epoch 004 | Loss 1.6507 | Test Acc 67.28% | Best 67.28% | Time 430.0s
+Epoch 005 | Loss 1.6644 | Test Acc 71.85% | Best 71.85% | Time 516.1s
+Epoch 006 | Loss 1.5346 | Test Acc 71.32% | Best 71.85% | Time 602.3s
+Epoch 007 | Loss 1.6485 | Test Acc 72.72% | Best 72.72% | Time 689.0s
+Epoch 008 | Loss 1.8094 | Test Acc 74.12% | Best 74.12% | Time 777.0s
+Epoch 009 | Loss 1.5405 | Test Acc 76.31% | Best 76.31% | Time 866.3s
+Epoch 010 | Loss 1.5748 | Test Acc 69.42% | Best 76.31% | Time 952.7s
+Epoch 011 | Loss 1.6209 | Test Acc 74.42% | Best 76.31% | Time 1039.0s
+Epoch 012 | Loss 1.4918 | Test Acc 78.30% | Best 78.30% | Time 1125.3s
+Epoch 013 | Loss 1.6071 | Test Acc 75.47% | Best 78.30% | Time 1211.2s
+Epoch 014 | Loss 1.5200 | Test Acc 76.42% | Best 78.30% | Time 1298.4s
+Epoch 015 | Loss 1.5286 | Test Acc 78.26% | Best 78.30% | Time 1386.4s
+Epoch 016 | Loss 1.5202 | Test Acc 81.83% | Best 81.83% | Time 1473.7s
+Epoch 017 | Loss 1.4942 | Test Acc 80.73% | Best 81.83% | Time 1561.3s
+Epoch 018 | Loss 1.5425 | Test Acc 80.94% | Best 81.83% | Time 1648.6s
+Epoch 019 | Loss 1.6329 | Test Acc 81.17% | Best 81.83% | Time 1734.8s
+Epoch 020 | Loss 1.5137 | Test Acc 82.55% | Best 82.55% | Time 1819.8s
+Epoch 021 | Loss 1.4974 | Test Acc 83.20% | Best 83.20% | Time 1906.5s
+Epoch 022 | Loss 1.5493 | Test Acc 83.15% | Best 83.20% | Time 1994.0s
+Epoch 023 | Loss 1.5283 | Test Acc 82.91% | Best 83.20% | Time 2079.4s
+Epoch 024 | Loss 1.4783 | Test Acc 83.05% | Best 83.20% | Time 2165.6s
+{'total_spikes': 2848346.0, 'total_possible_spikes': 9439104, 'spike_sparsity': 0.6982397905563917, 'spike_rate': 0.3017602094436082}

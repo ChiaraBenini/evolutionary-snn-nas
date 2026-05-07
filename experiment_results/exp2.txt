@@ -1,0 +1,230 @@
+Starting evolution
+Population size: 6
+Generations: 3
+Elite fraction: 0.33
+Mutation probability: 0.1
+
+Generation 0
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.4835 | Test Acc 5.40% | Best 5.40% | Time 18.8s
+Epoch 001 | Loss 4.3337 | Test Acc 4.80% | Best 5.40% | Time 36.7s
+Epoch 002 | Loss 4.0393 | Test Acc 6.16% | Best 6.16% | Time 54.5s
+Epoch 003 | Loss 4.0842 | Test Acc 6.52% | Best 6.52% | Time 72.4s
+acc=0.0652 | fitness=0.0652 | layers=(True, True, False)/4 | steps=8 | beta=0.8 | width_mult=1.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.4658 | Test Acc 5.44% | Best 5.44% | Time 14.1s
+Epoch 001 | Loss 4.3077 | Test Acc 6.40% | Best 6.40% | Time 28.0s
+Epoch 002 | Loss 4.5467 | Test Acc 7.04% | Best 7.04% | Time 42.0s
+Epoch 003 | Loss 4.0680 | Test Acc 6.48% | Best 7.04% | Time 55.9s
+acc=0.0704 | fitness=0.0704 | layers=(False, True, False)/4 | steps=10 | beta=0.82 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5875 | Test Acc 5.08% | Best 5.08% | Time 21.5s
+Epoch 001 | Loss 4.5316 | Test Acc 7.32% | Best 7.32% | Time 42.9s
+Epoch 002 | Loss 4.2041 | Test Acc 8.28% | Best 8.28% | Time 64.4s
+Epoch 003 | Loss 4.1872 | Test Acc 9.28% | Best 9.28% | Time 86.2s
+acc=0.0928 | fitness=0.0928 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.4930 | Test Acc 6.96% | Best 6.96% | Time 17.7s
+Epoch 001 | Loss 4.3155 | Test Acc 8.64% | Best 8.64% | Time 35.5s
+Epoch 002 | Loss 4.3382 | Test Acc 8.28% | Best 8.64% | Time 53.1s
+Epoch 003 | Loss 4.3253 | Test Acc 8.16% | Best 8.64% | Time 70.8s
+acc=0.0864 | fitness=0.0864 | layers=(True, False, True)/4 | steps=14 | beta=0.8 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.4665 | Test Acc 4.84% | Best 4.84% | Time 13.4s
+Epoch 001 | Loss 4.6233 | Test Acc 5.60% | Best 5.60% | Time 26.8s
+Epoch 002 | Loss 4.3324 | Test Acc 6.84% | Best 6.84% | Time 40.3s
+Epoch 003 | Loss 4.3003 | Test Acc 7.84% | Best 7.84% | Time 53.6s
+acc=0.0784 | fitness=0.0784 | layers=(True, False, False)/4 | steps=10 | beta=0.82 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.3321 | Test Acc 5.88% | Best 5.88% | Time 28.5s
+Epoch 001 | Loss 4.2483 | Test Acc 5.72% | Best 5.88% | Time 57.0s
+Epoch 002 | Loss 4.0489 | Test Acc 5.68% | Best 5.88% | Time 85.6s
+Epoch 003 | Loss 4.1941 | Test Acc 7.64% | Best 7.64% | Time 114.1s
+acc=0.0764 | fitness=0.0764 | layers=(True, False, True)/4 | steps=10 | beta=0.92 | width_mult=2.0
+Best individual
+accuracy: 0.0928
+fitness: 0.0928
+layers: (True, True, False)
+sparsity: 0.6626
+
+Generation 1
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5871 | Test Acc 6.36% | Best 6.36% | Time 21.7s
+Epoch 001 | Loss 4.5435 | Test Acc 6.64% | Best 6.64% | Time 43.3s
+Epoch 002 | Loss 4.2568 | Test Acc 7.20% | Best 7.20% | Time 65.0s
+Epoch 003 | Loss 4.1580 | Test Acc 8.20% | Best 8.20% | Time 86.9s
+acc=0.0820 | fitness=0.0820 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5994 | Test Acc 6.48% | Best 6.48% | Time 21.6s
+Epoch 001 | Loss 4.5325 | Test Acc 7.68% | Best 7.68% | Time 43.3s
+Epoch 002 | Loss 4.5057 | Test Acc 9.08% | Best 9.08% | Time 65.1s
+Epoch 003 | Loss 4.2191 | Test Acc 9.72% | Best 9.72% | Time 86.8s
+acc=0.0972 | fitness=0.0972 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5712 | Test Acc 7.04% | Best 7.04% | Time 21.8s
+Epoch 001 | Loss 4.4931 | Test Acc 7.28% | Best 7.28% | Time 43.5s
+Epoch 002 | Loss 4.4973 | Test Acc 8.76% | Best 8.76% | Time 65.3s
+Epoch 003 | Loss 4.3482 | Test Acc 8.84% | Best 8.84% | Time 87.1s
+acc=0.0884 | fitness=0.0884 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.6230 | Test Acc 6.48% | Best 6.48% | Time 21.8s
+Epoch 001 | Loss 4.4178 | Test Acc 7.76% | Best 7.76% | Time 43.5s
+Epoch 002 | Loss 4.3048 | Test Acc 8.16% | Best 8.16% | Time 65.3s
+Epoch 003 | Loss 4.2470 | Test Acc 9.08% | Best 9.08% | Time 87.0s
+acc=0.0908 | fitness=0.0908 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5643 | Test Acc 5.44% | Best 5.44% | Time 21.8s
+Epoch 001 | Loss 4.4439 | Test Acc 6.56% | Best 6.56% | Time 43.6s
+Epoch 002 | Loss 4.1975 | Test Acc 8.12% | Best 8.12% | Time 65.4s
+Epoch 003 | Loss 4.4011 | Test Acc 9.16% | Best 9.16% | Time 87.3s
+acc=0.0916 | fitness=0.0916 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.4322 | Test Acc 5.36% | Best 5.36% | Time 21.9s
+Epoch 001 | Loss 4.5998 | Test Acc 6.96% | Best 6.96% | Time 43.7s
+Epoch 002 | Loss 4.3548 | Test Acc 7.24% | Best 7.24% | Time 65.6s
+Epoch 003 | Loss 4.1015 | Test Acc 8.32% | Best 8.32% | Time 87.6s
+acc=0.0832 | fitness=0.0832 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Best individual
+accuracy: 0.0972
+fitness: 0.0972
+layers: (True, True, False)
+sparsity: 0.6608
+
+Generation 2
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5445 | Test Acc 6.12% | Best 6.12% | Time 21.9s
+Epoch 001 | Loss 4.5519 | Test Acc 7.76% | Best 7.76% | Time 44.0s
+Epoch 002 | Loss 4.2987 | Test Acc 7.52% | Best 7.76% | Time 66.0s
+Epoch 003 | Loss 4.1829 | Test Acc 9.68% | Best 9.68% | Time 88.0s
+acc=0.0968 | fitness=0.0968 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5310 | Test Acc 6.48% | Best 6.48% | Time 22.1s
+Epoch 001 | Loss 4.3598 | Test Acc 7.80% | Best 7.80% | Time 44.3s
+Epoch 002 | Loss 4.4217 | Test Acc 7.72% | Best 7.80% | Time 66.3s
+Epoch 003 | Loss 4.1274 | Test Acc 8.04% | Best 8.04% | Time 88.6s
+acc=0.0804 | fitness=0.0804 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.4203 | Test Acc 6.52% | Best 6.52% | Time 22.1s
+Epoch 001 | Loss 4.4582 | Test Acc 8.24% | Best 8.24% | Time 44.1s
+Epoch 002 | Loss 4.3547 | Test Acc 7.56% | Best 8.24% | Time 66.2s
+Epoch 003 | Loss 4.1641 | Test Acc 9.16% | Best 9.16% | Time 88.2s
+acc=0.0916 | fitness=0.0916 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5801 | Test Acc 5.80% | Best 5.80% | Time 21.9s
+Epoch 001 | Loss 4.3860 | Test Acc 5.88% | Best 5.88% | Time 43.9s
+Epoch 002 | Loss 4.3030 | Test Acc 6.96% | Best 6.96% | Time 65.9s
+Epoch 003 | Loss 4.2466 | Test Acc 9.68% | Best 9.68% | Time 87.9s
+acc=0.0968 | fitness=0.0968 | layers=(True, True, False)/4 | steps=18 | beta=0.92 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5391 | Test Acc 6.32% | Best 6.32% | Time 22.0s
+Epoch 001 | Loss 4.3296 | Test Acc 7.80% | Best 7.80% | Time 43.9s
+Epoch 002 | Loss 4.2707 | Test Acc 8.24% | Best 8.24% | Time 66.0s
+Epoch 003 | Loss 4.1388 | Test Acc 8.72% | Best 8.72% | Time 88.0s
+acc=0.0872 | fitness=0.0872 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.5973 | Test Acc 5.72% | Best 5.72% | Time 21.8s
+Epoch 001 | Loss 4.3745 | Test Acc 8.16% | Best 8.16% | Time 43.6s
+Epoch 002 | Loss 4.0593 | Test Acc 8.48% | Best 8.48% | Time 65.6s
+Epoch 003 | Loss 4.2697 | Test Acc 8.40% | Best 8.48% | Time 87.6s
+acc=0.0848 | fitness=0.0848 | layers=(True, True, False)/4 | steps=18 | beta=0.9 | width_mult=0.5
+Best individual
+accuracy: 0.0968
+fitness: 0.0968
+layers: (True, True, False)
+sparsity: 0.6693
+
+Evolved genotype: SNNGenotype(layers_active=(True, True, False), num_steps=18, beta=0.9, width_mult=0.5)
+Active layers: (True, True, False)
+Fitness: 0.097, Accuracy: 0.097
+Device: cuda
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch 000 | Loss 4.1879 | Test Acc 8.86% | Best 8.86% | Time 106.3s
+Epoch 001 | Loss 4.0341 | Test Acc 11.31% | Best 11.31% | Time 213.4s
+Epoch 002 | Loss 4.0040 | Test Acc 12.51% | Best 12.51% | Time 321.1s
+Epoch 003 | Loss 3.9847 | Test Acc 14.66% | Best 14.66% | Time 428.9s
+Epoch 004 | Loss 4.1554 | Test Acc 14.71% | Best 14.71% | Time 536.7s
+Epoch 005 | Loss 3.9924 | Test Acc 15.25% | Best 15.25% | Time 644.6s
+Epoch 006 | Loss 3.9372 | Test Acc 17.34% | Best 17.34% | Time 752.6s
+Epoch 007 | Loss 3.8894 | Test Acc 15.13% | Best 17.34% | Time 860.5s
+Epoch 008 | Loss 3.8907 | Test Acc 17.84% | Best 17.84% | Time 967.6s
+Epoch 009 | Loss 3.8901 | Test Acc 18.67% | Best 18.67% | Time 1075.2s
+Epoch 010 | Loss 3.9265 | Test Acc 19.05% | Best 19.05% | Time 1183.2s
+Epoch 011 | Loss 3.9613 | Test Acc 18.43% | Best 19.05% | Time 1290.5s
+Epoch 012 | Loss 3.8660 | Test Acc 19.33% | Best 19.33% | Time 1398.6s
+Epoch 013 | Loss 3.8818 | Test Acc 19.18% | Best 19.33% | Time 1507.5s
+Epoch 014 | Loss 3.7444 | Test Acc 20.73% | Best 20.73% | Time 1616.9s
+Epoch 015 | Loss 3.8552 | Test Acc 22.11% | Best 22.11% | Time 1725.6s
+Epoch 016 | Loss 3.8826 | Test Acc 21.86% | Best 22.11% | Time 1834.6s
+Epoch 017 | Loss 3.8464 | Test Acc 20.46% | Best 22.11% | Time 1942.3s
+Epoch 018 | Loss 3.8110 | Test Acc 21.64% | Best 22.11% | Time 2050.5s
+Epoch 019 | Loss 3.8371 | Test Acc 24.40% | Best 24.40% | Time 2158.7s
+Epoch 020 | Loss 3.8695 | Test Acc 25.15% | Best 25.15% | Time 2269.2s
+Epoch 021 | Loss 3.8025 | Test Acc 26.28% | Best 26.28% | Time 2377.9s
+Epoch 022 | Loss 3.7372 | Test Acc 25.59% | Best 26.28% | Time 2486.5s
+Epoch 023 | Loss 3.8501 | Test Acc 26.12% | Best 26.28% | Time 2594.0s
+Epoch 024 | Loss 3.9857 | Test Acc 26.23% | Best 26.28% | Time 2703.0s
+{'total_spikes': 2179222.0, 'total_possible_spikes': 7106688, 'spike_sparsity': 0.6933561737900975, 'spike_rate': 0.30664382620990255}
+
+Epoch 000 | Loss 4.0849 | Test Acc 6.53% | Best 6.53% | Time 85.7s
+Epoch 001 | Loss 4.0723 | Test Acc 8.50% | Best 8.50% | Time 170.6s
+Epoch 002 | Loss 4.1148 | Test Acc 11.85% | Best 11.85% | Time 255.4s
+Epoch 003 | Loss 3.8657 | Test Acc 11.25% | Best 11.85% | Time 339.9s
+Epoch 004 | Loss 3.9308 | Test Acc 12.60% | Best 12.60% | Time 424.5s
+Epoch 005 | Loss 3.8048 | Test Acc 14.21% | Best 14.21% | Time 509.0s
+Epoch 006 | Loss 3.9153 | Test Acc 15.07% | Best 15.07% | Time 593.8s
+Epoch 007 | Loss 3.8653 | Test Acc 15.11% | Best 15.11% | Time 678.5s
+Epoch 008 | Loss 3.8281 | Test Acc 14.00% | Best 15.11% | Time 762.9s
+Epoch 009 | Loss 3.8941 | Test Acc 19.00% | Best 19.00% | Time 848.1s
+Epoch 010 | Loss 3.9023 | Test Acc 17.44% | Best 19.00% | Time 933.1s
+Epoch 011 | Loss 3.7803 | Test Acc 20.16% | Best 20.16% | Time 1018.1s
+Epoch 012 | Loss 3.9002 | Test Acc 16.87% | Best 20.16% | Time 1103.0s
+Epoch 013 | Loss 3.8785 | Test Acc 19.69% | Best 20.16% | Time 1187.6s
+Epoch 014 | Loss 3.7569 | Test Acc 20.43% | Best 20.43% | Time 1272.6s
+Epoch 015 | Loss 3.7717 | Test Acc 22.30% | Best 22.30% | Time 1357.3s
+Epoch 016 | Loss 3.8679 | Test Acc 22.07% | Best 22.30% | Time 1442.1s
+Epoch 017 | Loss 3.8870 | Test Acc 21.12% | Best 22.30% | Time 1526.6s
+Epoch 018 | Loss 3.7581 | Test Acc 22.41% | Best 22.41% | Time 1611.5s
+Epoch 019 | Loss 3.7044 | Test Acc 21.21% | Best 22.41% | Time 1696.6s
+Epoch 020 | Loss 3.7642 | Test Acc 24.19% | Best 24.19% | Time 1781.1s
+Epoch 021 | Loss 3.7105 | Test Acc 25.04% | Best 25.04% | Time 1865.7s
+Epoch 022 | Loss 3.7167 | Test Acc 24.98% | Best 25.04% | Time 1950.8s
+Epoch 023 | Loss 3.7464 | Test Acc 26.02% | Best 26.02% | Time 2035.5s
+Epoch 024 | Loss 3.6895 | Test Acc 25.33% | Best 26.02% | Time 2120.1s
+{'total_spikes': 2882878.0, 'total_possible_spikes': 9456384, 'spike_sparsity': 0.6951394951812447, 'spike_rate': 0.30486050481875526}

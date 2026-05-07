@@ -1,60 +1,16 @@
-# Evolutionary Neural Architecture Search for Attention-Enabled Spiking Neural Networks
+# Run single-GPU
+`main.py` contains the code for single-GPU (or CPU) operation. The EA can be enabled, or a manual genotype can be used for full training
 
-Research project exploring evolutionary Neural Architecture Search (NAS) for optimizing attention-enabled Spiking Neural Networks (SNNs).
+# Run multi-GPU
+**NOTE**: The multi-GPU code has NOT been tested recently due to unavailability of multiple GPUs on the HPC
 
-## Overview
+Run the following command from the root directory to run the multi-GPU training script:
 
-This project investigates whether evolutionary optimization can improve the performance of attention-based SNN architectures.
+    torchrun --nnodes=1 --nproc-per-node=2 ./train_multi_gpu.py
 
-We integrate:
-- Spiking-Efficient Channel Attention (SECA)
-- Convolutional Spiking Neural Networks
-- Evolutionary Neural Architecture Search
-- Distributed multi-GPU training
+If you want to use more than 2 GPUs, change the `--nproc-per-node=<n>` parameter.
 
-The evolutionary algorithm optimizes:
-- Attention layer placement
-- Simulation time steps
-- Membrane decay parameters
-- Channel width
+# Notes
+- **NOTE**: Change the GPU numbers before running the script to prevent hijacking someone else's GPU!
+- The single GPU training file does not work as of now (unless necessary in the future, I will not fix that).
 
-## Features
-
-- Attention-enabled SNN architecture
-- Evolutionary NAS framework
-- CIFAR-10 / CIFAR-100 experiments
-- Multi-GPU distributed training
-- Spike sparsity and energy-efficiency analysis
-
-## Technologies
-
-- Python
-- PyTorch
-- DistributedDataParallel (DDP)
-- Spiking Neural Networks
-- Evolutionary Algorithms
-- Neural Architecture Search
-
-
-## Key Results
-
-- Evolutionary NAS discovered competitive SNN configurations
-- Comparable performance to manually designed baselines
-- Increased simulation steps improved stability
-- Trade-offs observed between accuracy, sparsity, and training cost
-
-## Research Focus
-
-This work explores:
-- Neuromorphic computing
-- Efficient AI architectures
-- Automated neural architecture design
-- Attention mechanisms for SNNs
-
-## Future Work
-
-- Multi-objective NAS optimization
-- Hardware-aware fitness functions
-- Larger search spaces
-- Advanced spiking attention modules
-- Energy-aware optimization
