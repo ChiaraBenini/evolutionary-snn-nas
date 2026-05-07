@@ -1,3 +1,6 @@
+# Results and Explanation
+For a more detailied look at the project and see who collaborated, read the PDF file
+
 # Run single-GPU
 `main.py` contains the code for single-GPU (or CPU) operation. The EA can be enabled, or a manual genotype can be used for full training
 
